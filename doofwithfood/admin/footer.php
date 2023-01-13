@@ -1,0 +1,1 @@
+<footer class="footer"> © 2023 Doof With Food. All rights reserved. </footer>
